@@ -1,0 +1,8 @@
+* Time Complexity: bir algoritmanin calismasi
+icin gerekli olan sure, saniyeleri hesaplayarak degil,
+kac tane islem gerceklestirdigine gore hesaplamaktir
+
+
+Big O Notation ==> O(n) :
+bir algoritmanin performansini veya time-complexity
+sini hesaplamak icin kullanilir

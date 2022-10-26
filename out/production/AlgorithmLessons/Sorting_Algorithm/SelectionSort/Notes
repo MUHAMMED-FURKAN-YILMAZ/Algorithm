@@ -1,0 +1,7 @@
+Tanim : ilk elemandan son elemana kadar her elemani kendinden sonra gelen, kendinden
+kucuk elemanlarin en kucugu ile yer degistirme islemidir.
+
+                    { 1 , 2 , 3 , 10 , 6 , 4 , 7 } --> siralayalim
+
+Time Complexity : En kotu durumda O(n^2) zaman aliyor, zaman acisindan verimsiz,
+                  ama en avantajlı tarafi bellek kullanimi O(1), ekstra 1 tane temp degiskene ihtiyac duydugu icin
