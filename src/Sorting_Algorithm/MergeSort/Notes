@@ -1,0 +1,6 @@
+Aciklama : Dizziyi ikiye bolup olusan kumeleri tekrar birlestirmeli siralama
+           algoritmasina atiyor ve boylece dizi surekli ikiye bolunmus oluyor. Elemanlari
+           ikiserli olarak karsilastirip sirali bicimde birlestirerek dort elemanli alt kumeler
+           elde edilir. Boyle devam ettigimizde ornegin dizimiz 16 elemanli ise elimizde
+           8 elemanli, elemanlari sirali iki alt kume kaliyor, bu alt kumeleri de ayni
+           sekilde sirali bicimde birlestirdigimiz zaman dizimiz siralanmis oluyor
