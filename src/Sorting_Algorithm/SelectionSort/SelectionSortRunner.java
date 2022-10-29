@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class SelectionSortRunner {
     public static void main(String[] args) {
 
-        int [] arr1 = {7,4,5,9,8,2,1};
+        int [] arr1 = {5,3,4,2};
         System.out.println("SSort oncesi liste :");
         System.out.println(Arrays.toString(arr1));
         System.out.println("***************************");

@@ -12,7 +12,7 @@ public class InsertionSOrtRunner {
         System.out.println("*************************");
 
         System.out.println("ISort sonrasi liste");
-        InsertionSort.insertionSOrt(arr1);
+        InsertionSort.insertionSort(arr1);
         System.out.println(Arrays.toString(arr1));
         System.out.println("***************************");
 

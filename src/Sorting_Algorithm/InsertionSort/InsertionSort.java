@@ -2,7 +2,7 @@ package Sorting_Algorithm.InsertionSort;
 
 public class InsertionSort {
 
-    public static void insertionSOrt(int arr[]){
+    public static void insertionSort(int arr[]){
 
         for (int i = 1; i < arr.length; i++) {
             int value = arr[i];
